@@ -1,8 +1,7 @@
 name: Deploy PR Preview - GHES Node v16
 author: Simon Farrow
 description: >
-  Deploy a pull request preview to GitHub Pages, similar to Vercel and
-  Netlify.
+  Deploy a pull request preview to GitHub Pages
   This version uses older versions of required actions which run on node 16
   
 branding:
