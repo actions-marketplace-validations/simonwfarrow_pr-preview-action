@@ -4,8 +4,6 @@ description: >
   Deploy a pull request preview to GitHub Pages, similar to Vercel and
   Netlify.
   This version uses older versions of required actions which run on node 16
-  until my organisation can upgrade its GHES version
-  Many thanks to the original author of this action
   
 branding:
   icon: git-pull-request
